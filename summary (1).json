@@ -1,0 +1,24 @@
+{
+  "flood_ha": 12503,
+  "flagged_segments": 52,
+  "total_segments": 17213,
+  "normal_km": 23.3,
+  "safe_km": 29.8,
+  "trips_tested": 247,
+  "trips_affected": 15,
+  "median_detour_pct": 3,
+  "flagged_by_threshold": {
+    "-15": 162,
+    "-17": 52,
+    "-19": 22
+  },
+  "area_range_ha": [
+    7351,
+    19267
+  ],
+  "osm_places": 35,
+  "places_flood_overlap": 8,
+  "places_not_safe_reachable": 0,
+  "pop_in_flood_aoi": 21611,
+  "flagged_places_ranked": 8
+}
